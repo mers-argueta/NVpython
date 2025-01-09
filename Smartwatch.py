@@ -2,7 +2,6 @@ import time
 import datetime
 import os
 def dibujo():
-    os.system('cls' if os.name == "nt" else "clear")
     print("       ¡SOY UN SMARTWATCH!")
     print("")
     print("          ------------")
